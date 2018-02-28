@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT from="my_dataset">
+<Participants>
+<participant id="Petter" name="Petter" role="Adult" language="eng"/>
+<participant id="Hermione " name="Hermione " role="Adult" language="eng"/>
+<participant id="Snape" name="Snape" role="Adult" language="eng"/>
+<participant id="Harry" name="Harry" role="Adult" language="eng"/>
+<participant id="Ron" name="Ron" role="Adult" language="eng"/>
+<participant id="Sirius" name="Sirius" role="Adult" language="eng"/>
+<participant id="Remus" name="Remus" role="Adult" language="eng"/>
+</Participants>
+
+<u who="Hermione " uID="#2">
+<w>Ron</w>
+<w>.</w>
+<w>You</w>
+<w>'re</w>
+<w>okay</w>
+<w>.</w>
+<media start="1843" end="1844" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>The</w>
+<w>dog</w>
+<w>.</w>
+<w>Where</w>
+<w>is</w>
+<w>it</w>
+<w>?</w>
+<media start="1844" end="1845" unit="s"/>
+</u>
+
+<u who="Ron" uID="#5">
+<w>Harry</w>
+<w>it</w>
+<w>'s</w>
+<w>a</w>
+<w>trap</w>
+<w>.</w>
+<w>He</w>
+<w>'s</w>
+<w>the</w>
+<w>dog</w>
+<w>.</w>
+<w>He</w>
+<w>'s</w>
+<w>an</w>
+<w>Animagus</w>
+<w>.</w>
+<media start="1846" end="1849" unit="s"/>
+</u>
+
+<u who="Hermione " uID="#2">
+<w>If</w>
+<w>you</w>
+<w>want</w>
+<w>to</w>
+<w>kill</w>
+<w>Harry</w>
+<w>,</w>
+<w>you</w>
+<w>have</w>
+<w>to</w>
+<w>kill</w>
+<w>us</w>
+<w>too</w>
+<w>!</w>
+<media start="1863" end="1865" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>No</w>
+<w>.</w>
+<w>Only</w>
+<w>one</w>
+<w>will</w>
+<w>die</w>
+<w>tonight</w>
+<w>.</w>
+<media start="1866" end="1867" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>Then</w>
+<w>it</w>
+<w>'ll</w>
+<w>be</w>
+<w>you</w>
+<w>!</w>
+<media start="1868" end="1869" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Are</w>
+<w>you</w>
+<w>going</w>
+<w>to</w>
+<w>kill</w>
+<w>me</w>
+<w>,</w>
+<w>Harry</w>
+<w>?</w>
+<media start="1876" end="1878" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Expelliarmus</w>
+<w>!</w>
+<media start="1879" end="1881" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Well</w>
+<w>,</w>
+<w>well</w>
+<w>,</w>
+<w>Sirius</w>
+<w>.</w>
+<w>Looking</w>
+<w>rather</w>
+<w>ragged</w>
+<w>,</w>
+<w>are</w>
+<w>n't</w>
+<w>we</w>
+<w>?</w>
+<media start="1885" end="1889" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Finally</w>
+<w>,</w>
+<w>the</w>
+<w>flesh</w>
+<w>reflects</w>
+<w>the</w>
+<w>madness</w>
+<w>within</w>
+<w>.</w>
+<media start="1889" end="1892" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Well</w>
+<w>,</w>
+<w>you</w>
+<w>'d</w>
+<w>know</w>
+<w>all</w>
+<w>about</w>
+<w>the</w>
+<w>madness</w>
+<w>within</w>
+<w>,</w>
+<w>would</w>
+<w>n't</w>
+<w>you</w>
+<w>Remus</w>
+<w>?</w>
+<media start="1893" end="1896" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>I</w>
+<w>found</w>
+<w>him</w>
+<w>.</w>
+<media start="1906" end="1907" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>I</w>
+<w>know</w>
+<w>.</w>
+<media start="1907" end="1908" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>It</w>
+<w>'s</w>
+<w>him</w>
+<w>.</w>
+<media start="1908" end="1909" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>I</w>
+<w>understand</w>
+<w>.</w>
+<media start="1908" end="1909" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Let</w>
+<w>'s</w>
+<w>kill</w>
+<w>him</w>
+<w>!</w>
+<media start="1909" end="1911" unit="s"/>
+</u>
+
+<u who="Hermione " uID="#2">
+<w>No</w>
+<w>!</w>
+<w>I</w>
+<w>trusted</w>
+<w>you</w>
+<w>!</w>
+<media start="1911" end="1913" unit="s"/>
+</u>
+
+<u who="Hermione " uID="#2">
+<w>And</w>
+<w>all</w>
+<w>this</w>
+<w>time</w>
+<w>,</w>
+<w>you</w>
+<w>'ve</w>
+<w>been</w>
+<w>his</w>
+<w>friend</w>
+<w>.</w>
+<media start="1913" end="1917" unit="s"/>
+</u>
+
+<u who="Hermione " uID="#2">
+<w>He</w>
+<w>'s</w>
+<w>a</w>
+<w>werewolf</w>
+<w>!</w>
+<w>That</w>
+<w>'s</w>
+<w>why</w>
+<w>he</w>
+<w>'s</w>
+<w>been</w>
+<w>missing</w>
+<w>classes</w>
+<w>.</w>
+<media start="1917" end="1920" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>How</w>
+<w>long</w>
+<w>have</w>
+<w>you</w>
+<w>known</w>
+<w>?</w>
+<media start="1923" end="1925" unit="s"/>
+</u>
+
+<u who="Hermione " uID="#2">
+<w>Since</w>
+<w>Professor</w>
+<w>Snape</w>
+<w>set</w>
+<w>the</w>
+<w>essay</w>
+<w>.</w>
+<media start="1925" end="1929" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Well</w>
+<w>,</w>
+<w>Hermione</w>
+<w>.</w>
+<w>You</w>
+<w>are</w>
+<w>the</w>
+<w>brightest</w>
+<w>witch</w>
+<w>of</w>
+<w>your</w>
+<w>age</w>
+<w>I</w>
+<w>'ve</w>
+<w>ever</w>
+<w>met</w>
+<w>.</w>
+<media start="1929" end="1932" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Enough</w>
+<w>talk</w>
+<w>,</w>
+<w>Remus</w>
+<w>!</w>
+<w>Come</w>
+<w>on</w>
+<w>,</w>
+<w>let</w>
+<w>'s</w>
+<w>kill</w>
+<w>him</w>
+<w>!</w>
+<media start="1932" end="1934" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Wait</w>
+<w>!</w>
+<media start="1934" end="1935" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>I</w>
+<w>did</w>
+<w>my</w>
+<w>waiting</w>
+<w>!</w>
+<w>Twelve</w>
+<w>years</w>
+<w>of</w>
+<w>it</w>
+<w>!</w>
+<w>In</w>
+<w>Azkaban</w>
+<w>!</w>
+<media start="1935" end="1937" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Very</w>
+<w>well</w>
+<w>.</w>
+<w>Kill</w>
+<w>him</w>
+<w>.</w>
+<media start="1937" end="1940" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>But</w>
+<w>wait</w>
+<w>one</w>
+<w>more</w>
+<w>minute</w>
+<w>.</w>
+<w>Harry</w>
+<w>has</w>
+<w>the</w>
+<w>right</w>
+<w>to</w>
+<w>know</w>
+<w>why</w>
+<w>.</w>
+<media start="1940" end="1943" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>I</w>
+<w>know</w>
+<w>why</w>
+<w>.</w>
+<w>You</w>
+<w>betrayed</w>
+<w>my</w>
+<w>parents</w>
+<w>.</w>
+<w>You</w>
+<w>'re</w>
+<w>the</w>
+<w>reason</w>
+<w>they</w>
+<w>'re</w>
+<w>dead</w>
+<w>!</w>
+<media start="1952" end="1954" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>No</w>
+<w>Harry</w>
+<w>,</w>
+<w>it</w>
+<w>was</w>
+<w>n't</w>
+<w>him</w>
+<w>.</w>
+<w>Somebody</w>
+<w>did</w>
+<w>betray</w>
+<w>your</w>
+<w>parents</w>
+<w>...</w>
+<media start="1955" end="1958" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>somebody</w>
+<w>who</w>
+<w>,</w>
+<w>until</w>
+<w>quite</w>
+<w>recently</w>
+<w>,</w>
+<w>I</w>
+<w>believed</w>
+<w>to</w>
+<w>be</w>
+<w>dead</w>
+<w>!</w>
+<media start="1958" end="1961" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>Who</w>
+<w>was</w>
+<w>it</w>
+<w>,</w>
+<w>then</w>
+<w>?</w>
+<media start="1962" end="1964" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Peter</w>
+<w>Pettigrew</w>
+<w>!</w>
+<media start="1964" end="1965" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>And</w>
+<w>he</w>
+<w>'s</w>
+<w>in</w>
+<w>this</w>
+<w>room</w>
+<w>!</w>
+<w>Right</w>
+<w>now</w>
+<w>!</w>
+<media start="1965" end="1968" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Come</w>
+<w>out</w>
+<w>,</w>
+<w>come</w>
+<w>out</w>
+<w>,</w>
+<w>Peter</w>
+<w>!</w>
+<media start="1969" end="1972" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Come</w>
+<w>out</w>
+<w>,</w>
+<w>come</w>
+<w>out</w>
+<w>and</w>
+<w>play</w>
+<w>!</w>
+<media start="1972" end="1974" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>Expelliarmus</w>
+<w>!</w>
+<media start="1974" end="1975" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>Vengeance</w>
+<w>is</w>
+<w>sweet</w>
+<w>.</w>
+<media start="1978" end="1980" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>How</w>
+<w>I</w>
+<w>hoped</w>
+<w>I</w>
+<w>'d</w>
+<w>be</w>
+<w>the</w>
+<w>one</w>
+<w>to</w>
+<w>catch</w>
+<w>you</w>
+<w>.</w>
+<media start="1981" end="1983" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Severus</w>
+<media start="1983" end="1984" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>I</w>
+<w>told</w>
+<w>Dumbledore</w>
+<w>you</w>
+<w>were</w>
+<w>helping</w>
+<w>a</w>
+<w>friend</w>
+<w>into</w>
+<w>the</w>
+<w>castle</w>
+<w>.</w>
+<w>Here</w>
+<w>'s</w>
+<w>the</w>
+<w>proof</w>
+<w>.</w>
+<media start="1985" end="1989" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Brilliant</w>
+<w>,</w>
+<w>Snape</w>
+<w>.</w>
+<media start="1990" end="1991" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>You</w>
+<w>'ve</w>
+<w>put</w>
+<w>your</w>
+<w>keen</w>
+<w>mind</w>
+<w>to</w>
+<w>the</w>
+<w>task</w>
+<w>and</w>
+<w>come</w>
+<w>to</w>
+<w>the</w>
+<w>wrong</w>
+<w>conclusion</w>
+<w>.</w>
+<media start="1991" end="1995" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>If</w>
+<w>you</w>
+<w>'ll</w>
+<w>excuse</w>
+<w>us</w>
+<w>,</w>
+<w>Remus</w>
+<w>and</w>
+<w>I</w>
+<w>have</w>
+<w>business</w>
+<w>to</w>
+<w>attend</w>
+<w>to</w>
+<w>.</w>
+<media start="1996" end="1998" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>Give</w>
+<w>me</w>
+<w>a</w>
+<w>reason</w>
+<w>.</w>
+<w>I</w>
+<w>beg</w>
+<w>you</w>
+<w>!</w>
+<media start="1998" end="2003" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Severus</w>
+<w>.</w>
+<w>Do</w>
+<w>n't</w>
+<w>be</w>
+<w>a</w>
+<w>fool</w>
+<w>.</w>
+<media start="2004" end="2005" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>He</w>
+<w>ca</w>
+<w>n't</w>
+<w>help</w>
+<w>it</w>
+<w>.</w>
+<w>It</w>
+<w>'s</w>
+<w>habit</w>
+<w>.</w>
+<media start="2005" end="2006" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Sirius</w>
+<w>be</w>
+<w>quiet</w>
+<w>.</w>
+<media start="2006" end="2007" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Be</w>
+<w>quiet</w>
+<w>yourself</w>
+<w>!</w>
+<media start="2007" end="2008" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>You</w>
+<w>two</w>
+<w>,</w>
+<w>quarrelling</w>
+<w>like</w>
+<w>an</w>
+<w>old</w>
+<w>married</w>
+<w>couple</w>
+<w>.</w>
+<media start="2008" end="2011" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Why</w>
+<w>do</w>
+<w>n't</w>
+<w>you</w>
+<w>run</w>
+<w>along</w>
+<w>and</w>
+<w>play</w>
+<w>with</w>
+<w>your</w>
+<w>chemistry</w>
+<w>set</w>
+<w>!</w>
+<media start="2011" end="2013" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>I</w>
+<w>could</w>
+<w>do</w>
+<w>it</w>
+<w>,</w>
+<w>you</w>
+<w>know</w>
+<w>.</w>
+<media start="2014" end="2016" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>But</w>
+<w>why</w>
+<w>deny</w>
+<w>the</w>
+<w>dementors</w>
+<w>?</w>
+<w>They</w>
+<w>'re</w>
+<w>so</w>
+<w>longing</w>
+<w>to</w>
+<w>see</w>
+<w>you</w>
+<w>.</w>
+<media start="2017" end="2022" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>Do</w>
+<w>I</w>
+<w>detect</w>
+<w>a</w>
+<w>flicker</w>
+<w>of</w>
+<w>fear</w>
+<w>?</w>
+<w>Oh</w>
+<w>,</w>
+<w>yes</w>
+<w>.</w>
+<media start="2023" end="2025" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>A</w>
+<w>Dementor</w>
+<w>'s</w>
+<w>Kiss</w>
+<w>.</w>
+<w>One</w>
+<w>can</w>
+<w>only</w>
+<w>imagine</w>
+<w>what</w>
+<w>that</w>
+<w>must</w>
+<w>be</w>
+<w>like</w>
+<w>.</w>
+<media start="2025" end="2029" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>It</w>
+<w>'s</w>
+<w>said</w>
+<w>to</w>
+<w>be</w>
+<w>nearly</w>
+<w>unbearable</w>
+<w>to</w>
+<w>witness</w>
+<w>,</w>
+<w>but</w>
+<w>I</w>
+<w>'ll</w>
+<w>do</w>
+<w>my</w>
+<w>best</w>
+<w>.</w>
+<media start="2029" end="2035" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Severus</w>
+<w>,</w>
+<w>please</w>
+<w>.</w>
+<media start="2035" end="2037" unit="s"/>
+</u>
+
+<u who="Snape" uID="#3">
+<w>After</w>
+<w>you</w>
+<w>.</w>
+<media start="2038" end="2040" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>Expelliarmus</w>
+<w>!</w>
+<media start="2045" end="2046" unit="s"/>
+</u>
+
+<u who="Ron" uID="#5">
+<w>Harry</w>
+<w>!</w>
+<w>What</w>
+<w>did</w>
+<w>you</w>
+<w>just</w>
+<w>do</w>
+<w>?</w>
+<media start="2048" end="2050" unit="s"/>
+</u>
+
+<u who="Hermione " uID="#2">
+<w>You</w>
+<w>attacked</w>
+<w>a</w>
+<w>teacher</w>
+<w>!</w>
+<media start="2050" end="2052" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>Tell</w>
+<w>me</w>
+<w>about</w>
+<w>Peter</w>
+<w>.</w>
+<media start="2052" end="2053" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>He</w>
+<w>was</w>
+<w>at</w>
+<w>school</w>
+<w>with</w>
+<w>us</w>
+<w>.</w>
+<media start="2053" end="2054" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>We</w>
+<w>thought</w>
+<w>he</w>
+<w>was</w>
+<w>our</w>
+<w>friend</w>
+<w>!</w>
+<media start="2055" end="2056" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>No</w>
+<w>.</w>
+<w>Pettigrew</w>
+<w>'s</w>
+<w>dead</w>
+<w>.</w>
+<w>You</w>
+<w>killed</w>
+<w>him</w>
+<w>!</w>
+<media start="2056" end="2058" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>No</w>
+<w>,</w>
+<w>he</w>
+<w>did</w>
+<w>n't</w>
+<w>.</w>
+<media start="2058" end="2059" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>I</w>
+<w>thought</w>
+<w>so</w>
+<w>too</w>
+<w>,</w>
+<w>until</w>
+<w>you</w>
+<w>mentioned</w>
+<w>Pettigrew</w>
+<w>on</w>
+<w>the</w>
+<w>map</w>
+<w>!</w>
+<media start="2060" end="2063" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>The</w>
+<w>map</w>
+<w>was</w>
+<w>lying</w>
+<w>,</w>
+<w>then</w>
+<w>.</w>
+<media start="2063" end="2065" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>The</w>
+<w>map</w>
+<w>never</w>
+<w>lies</w>
+<w>!</w>
+<media start="2065" end="2066" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Pettigrew</w>
+<w>'s</w>
+<w>alive</w>
+<w>!</w>
+<w>And</w>
+<w>he</w>
+<w>'s</w>
+<w>right</w>
+<w>there</w>
+<w>!</w>
+<media start="2066" end="2070" unit="s"/>
+</u>
+
+<u who="Ron" uID="#5">
+<w>Me</w>
+<w>?</w>
+<w>!</w>
+<w>He</w>
+<w>'s</w>
+<w>mental</w>
+<w>!</w>
+<media start="2070" end="2072" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Not</w>
+<w>you</w>
+<w>!</w>
+<w>Your</w>
+<w>rat</w>
+<w>!</w>
+<media start="2072" end="2075" unit="s"/>
+</u>
+
+<u who="Ron" uID="#5">
+<w>Scabbers</w>
+<w>has</w>
+<w>been</w>
+<w>in</w>
+<w>my</w>
+<w>family</w>
+<w>for</w>
+<media start="2075" end="2077" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Twelve</w>
+<w>years</w>
+<w>?</w>
+<media start="2077" end="2078" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Curiously</w>
+<w>long</w>
+<w>life</w>
+<w>for</w>
+<w>a</w>
+<w>common</w>
+<w>garden</w>
+<w>rat</w>
+<w>!</w>
+<media start="2079" end="2081" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>He</w>
+<w>'s</w>
+<w>missing</w>
+<w>a</w>
+<w>toe</w>
+<w>,</w>
+<w>is</w>
+<w>n't</w>
+<w>he</w>
+<w>?</w>
+<media start="2081" end="2083" unit="s"/>
+</u>
+
+<u who="Ron" uID="#5">
+<w>So</w>
+<w>what</w>
+<w>?</w>
+<media start="2083" end="2084" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>All</w>
+<w>they</w>
+<w>could</w>
+<w>find</w>
+<w>of</w>
+<w>Pettigrew</w>
+<w>was</w>
+<w>his</w>
+<media start="2084" end="2086" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Finger</w>
+<w>!</w>
+<media start="2086" end="2087" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>Dirty</w>
+<w>coward</w>
+<w>cut</w>
+<w>it</w>
+<w>off</w>
+<w>so</w>
+<w>everyone</w>
+<w>would</w>
+<w>think</w>
+<w>he</w>
+<w>was</w>
+<w>dead</w>
+<w>!</w>
+<media start="2087" end="2090" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>And</w>
+<w>then</w>
+<w>he</w>
+<w>transformed</w>
+<w>into</w>
+<w>a</w>
+<w>rat</w>
+<w>!</w>
+<media start="2091" end="2093" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>Show</w>
+<w>me</w>
+<w>.</w>
+<media start="2093" end="2094" unit="s"/>
+</u>
+
+<u who="Harry" uID="#4">
+<w>Give</w>
+<w>it</w>
+<w>to</w>
+<w>him</w>
+<w>,</w>
+<w>Ron</w>
+<w>.</w>
+<media start="2096" end="2098" unit="s"/>
+</u>
+
+<u who="Ron" uID="#5">
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>trying</w>
+<w>to</w>
+<w>do</w>
+<w>to</w>
+<w>him</w>
+<w>?</w>
+<media start="2098" end="2099" unit="s"/>
+</u>
+
+<u who="Ron" uID="#5">
+<w>Scabbers</w>
+<w>!</w>
+<media start="2099" end="2101" unit="s"/>
+</u>
+
+<u who="Ron" uID="#5">
+<w>Leave</w>
+<w>him</w>
+<w>alone</w>
+<w>!</w>
+<w>Get</w>
+<w>off</w>
+<w>him</w>
+<w>!</w>
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>doing</w>
+<w>?</w>
+<media start="2101" end="2104" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>Remus</w>
+<w>?</w>
+<media start="2106" end="2108" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>Sirius</w>
+<w>.</w>
+<media start="2109" end="2110" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>My</w>
+<w>old</w>
+<w>friends</w>
+<w>!</w>
+<media start="2111" end="2112" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>Harry</w>
+<w>!</w>
+<w>Look</w>
+<w>at</w>
+<w>you</w>
+<w>.</w>
+<w>You</w>
+<w>look</w>
+<w>so</w>
+<w>much</w>
+<w>like</w>
+<w>your</w>
+<w>father</w>
+<w>.</w>
+<media start="2118" end="2122" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>Like</w>
+<w>James</w>
+<w>.</w>
+<w>We</w>
+<w>were</w>
+<w>the</w>
+<w>best</w>
+<w>of</w>
+<w>friends</w>
+<media start="2122" end="2124" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>How</w>
+<w>dare</w>
+<w>you</w>
+<w>speak</w>
+<w>to</w>
+<w>Harry</w>
+<w>!</w>
+<media start="2124" end="2126" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>How</w>
+<w>dare</w>
+<w>you</w>
+<w>talk</w>
+<w>about</w>
+<w>James</w>
+<w>in</w>
+<w>front</w>
+<w>of</w>
+<w>him</w>
+<w>!</w>
+<media start="2127" end="2129" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>You</w>
+<w>sold</w>
+<w>James</w>
+<w>and</w>
+<w>Lily</w>
+<w>to</w>
+<w>Voldemort</w>
+<w>,</w>
+<w>did</w>
+<w>n't</w>
+<w>you</w>
+<w>!</w>
+<media start="2129" end="2133" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>I</w>
+<w>did</w>
+<w>n't</w>
+<w>mean</w>
+<w>to</w>
+<w>!</w>
+<media start="2133" end="2135" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>The</w>
+<w>Dark</w>
+<w>Lord</w>
+<w>.</w>
+<w>You</w>
+<w>have</w>
+<w>no</w>
+<w>idea</w>
+<w>the</w>
+<w>weapons</w>
+<w>he</w>
+<w>possesses</w>
+<w>!</w>
+<media start="2135" end="2138" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>Ask</w>
+<w>yourself</w>
+<w>,</w>
+<w>Sirius</w>
+<w>!</w>
+<w>What</w>
+<w>would</w>
+<w>you</w>
+<w>have</w>
+<w>done</w>
+<w>?</w>
+<media start="2138" end="2140" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>What</w>
+<w>would</w>
+<w>you</w>
+<w>have</w>
+<w>done</w>
+<w>?</w>
+<media start="2141" end="2143" unit="s"/>
+</u>
+
+<u who="Sirius" uID="#6">
+<w>I</w>
+<w>would</w>
+<w>have</w>
+<w>died</w>
+<w>,</w>
+<w>rather</w>
+<w>than</w>
+<w>betray</w>
+<w>my</w>
+<w>friends</w>
+<w>!</w>
+<media start="2143" end="2146" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>Harry</w>
+<w>,</w>
+<w>James</w>
+<w>would</w>
+<w>n't</w>
+<w>have</w>
+<w>wanted</w>
+<w>me</w>
+<w>killed</w>
+<w>!</w>
+<media start="2149" end="2151" unit="s"/>
+</u>
+
+<u who="Petter" uID="#1">
+<w>Your</w>
+<w>dad</w>
+<w>would</w>
+<w>have</w>
+<w>spared</w>
+<w>me</w>
+<w>!</w>
+<w>He</w>
+<w>would</w>
+<w>have</w>
+<w>shown</w>
+<w>me</w>
+<w>mercy</w>
+<w>!</w>
+<media start="2151" end="2157" unit="s"/>
+</u>
+
+<u who="Remus" uID="#7">
+<w>Should</w>
+<w>have</w>
+<w>realized</w>
+<w>if</w>
+<w>Voldemort</w>
+<w>did</w>
+<w>n't</w>
+<w>kill</w>
+<w>you</w>
+<w>,</w>
+<w>we</w>
+<w>would</w>
+<w>.</w>
+<w>Together</w>
+<w>!</w>
+<media start="2157" end="2162" unit="s"/>
+</u>
+
+</CHAT>
+
