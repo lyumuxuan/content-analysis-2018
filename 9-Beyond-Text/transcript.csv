@@ -1,0 +1,86 @@
+﻿speaker,text,time_end,time_start
+Hermione ,Ron. You're okay. ,1,0
+Harry,The dog. Where is it?,2,1
+Ron,Harry it's a trap. He's the dog. He's an Animagus.,5,2
+Hermione ,"If you want to kill Harry, you have to kill us too!",23,21
+Sirius,No. Only one will die tonight.,25,24
+Harry,Then it'll be you!,27,26
+Sirius,"Are you going to kill me, Harry?",36,34
+Remus,Expelliarmus!,39,37
+Remus,"Well, well, Sirius. Looking rather ragged, aren't we?",47,43
+Remus,"Finally, the flesh reflects the madness within.",52,47
+Sirius,"Well, you'd know all about the madness within, wouldn't you Remus?",56,53
+Sirius,I found him. ,67,66
+Remus,I know.,68,67
+Sirius,It's him. ,68.5,68
+Remus,I understand.,69,68.5
+Sirius,Let's kill him!  ,71,69
+Hermione ,No! I trusted you!,73,71
+Hermione ,"And all this time, you've been his friend.",77,73
+Hermione ,He's a werewolf! That's why he's been missing classes.,80,77
+Remus,How long have you known?,85,83
+Hermione ,Since Professor Snape set the essay. ,89,85
+Remus,"Well, Hermione. You are the brightest witch of your age I've ever met.",92,89
+Sirius,"Enough talk, Remus! Come on, let's kill him!",94,92
+Remus,Wait!,95,94
+Sirius,I did my waiting! Twelve years of it! In Azkaban!,97,95
+Remus,Very well. Kill him.,100,97
+Remus,But wait one more minute. Harry has the right to know why.,103,100
+Harry,I know why. You betrayed my parents. You're the reason they're dead! ,111,109
+Remus,"No Harry, it wasn't him. Somebody did betray your parents... ",115,112
+Remus,"somebody who, until quite recently, I believed to be dead!",118,115
+Harry,"Who was it, then? ",121,119
+Sirius,Peter Pettigrew!,122,121
+Sirius,And he's in this room! Right now!,125,122
+Sirius,"Come out, come out, Peter!",129,126
+Sirius,"Come out, come out and play! ",131,129
+Snape,Expelliarmus!,132,131
+Snape,Vengeance is sweet.,137,135
+Snape,How I hoped I'd be the one to catch you.,140,138
+Remus,Severus,144,140
+Snape,I told Dumbledore you were helping a friend into the castle. Here's the proof.,149,145
+Sirius,"Brilliant, Snape.",151,150
+Sirius,You've put your keen mind to the task and come to the wrong conclusion.,155,151
+Sirius,"If you'll excuse us, Remus and I have business to attend to. ",158,156
+Snape,Give me a reason. I beg you!,163,158
+Remus,Severus. Don't be a fool. ,165,164
+Sirius,He can't help it. It's habit.,166,165
+Remus,Sirius be quiet.,167,166
+Sirius,Be quiet yourself!,168,167
+Snape,"You two, quarrelling like an old married couple.",171,168
+Sirius,Why don't you run along and play with your chemistry set!,173,171
+Snape,"I could do it, you know.",176,174
+Snape,But why deny the dementors? They're so longing to see you.,182,177
+Snape,"Do I detect a flicker of fear? Oh, yes.",185,183
+Snape,A Dementor's Kiss. One can only imagine what that must be like.,189,185
+Snape,"It's said to be nearly unbearable to witness, but I'll do my best.",195,189
+Remus,"Severus, please.",197,195
+Snape,After you.,200,198
+Harry,Expelliarmus!,206,205
+Ron,Harry! What did you just do? ,210,208
+Hermione ,You attacked a teacher!,212,210
+Harry,Tell me about Peter. ,213,212
+Remus,He was at school with us.,214,213
+Remus,We thought he was our friend!,216,215
+Harry,No. Pettigrew's dead. You killed him! ,218,216
+Remus,"No, he didn't.",219,218
+Remus,"I thought so too, until you mentioned Pettigrew on the map!",223,220
+Harry,"The map was lying, then. ",225,223
+Sirius,The map never lies!,226,225
+Sirius,Pettigrew's alive! And he's right there!,230,226
+Ron,Me?! He's mental! ,232,230
+Sirius,Not you! Your rat!,235,232
+Ron,Scabbers has been in my family for,237,235
+Sirius,Twelve years?,238,237
+Sirius,Curiously long life for a common garden rat!,241,239
+Sirius,"He's missing a toe, isn't he? ",243,241
+Ron,So what?,244,243
+Harry,All they could find of Pettigrew was his,246,244
+Sirius,Finger!,247,246
+Sirius,Dirty coward cut it off so everyone would think he was dead!,250,247
+Sirius,And then he transformed into a rat! ,253,251
+Harry,Show me.,254,253
+Harry,"Give it to him, Ron.",258,256
+Ron,What are you trying to do to him?,259,258
+Ron,Scabbers!,261,259
+Ron,Leave him alone! Get off him! What are you doing?,264,261
